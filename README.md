@@ -5,9 +5,9 @@ Create this thing where bots can interact with human.
 
 
 
-## First try..!!
+## First try..!! ChatGPT
 
-**26 Mar 2023, ChatGPT**
+**26 Mar 2023**
 
 Bots, have been interacting with humans a while now...
 
